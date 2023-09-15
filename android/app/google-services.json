@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "291526469928",
+    "project_id": "stars-movie-7e84e",
+    "storage_bucket": "stars-movie-7e84e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291526469928:android:f21c4ffff92bb0b911081d",
+        "android_client_info": {
+          "package_name": "com.example.stars_movie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUfpsiSR06rbSEDoPanlejV5F57Mo5s30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
