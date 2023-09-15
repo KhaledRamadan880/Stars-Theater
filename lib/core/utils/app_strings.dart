@@ -2,9 +2,12 @@ class AppStrings {
   //! Auth
   static const String login = 'Login';
   static const String signUp = 'Signup';
+  static const String name = 'Name';
   static const String email = 'E-mail';
   static const String password = 'Password';
+  static const String confirmPass = 'Confirm Password';
   static const String forgetPass = 'Forget password?';
+  static const String enterYourEmail = 'Enter your email adress before proceeding yo password reset';
   static const String dontHaveAcc = 'Dont have an account?';
   static const String orConnectWith = 'or connect with';
   static const String enterAsGuest = 'Enter as a guest';
